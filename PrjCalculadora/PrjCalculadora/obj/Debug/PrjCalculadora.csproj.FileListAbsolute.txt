@@ -1,0 +1,72 @@
+C:\Users\Lab_ETESP\source\repos\PrjCalculadora\PrjCalculadora\bin\PrjCalculadora.dll.config
+C:\Users\Lab_ETESP\source\repos\PrjCalculadora\PrjCalculadora\bin\PrjCalculadora.dll
+C:\Users\Lab_ETESP\source\repos\PrjCalculadora\PrjCalculadora\bin\PrjCalculadora.pdb
+C:\Users\Lab_ETESP\source\repos\PrjCalculadora\PrjCalculadora\bin\roslyn\csc.exe
+C:\Users\Lab_ETESP\source\repos\PrjCalculadora\PrjCalculadora\bin\roslyn\csc.exe.config
+C:\Users\Lab_ETESP\source\repos\PrjCalculadora\PrjCalculadora\bin\roslyn\csc.rsp
+C:\Users\Lab_ETESP\source\repos\PrjCalculadora\PrjCalculadora\bin\roslyn\csi.exe
+C:\Users\Lab_ETESP\source\repos\PrjCalculadora\PrjCalculadora\bin\roslyn\csi.rsp
+C:\Users\Lab_ETESP\source\repos\PrjCalculadora\PrjCalculadora\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lab_ETESP\source\repos\PrjCalculadora\PrjCalculadora\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lab_ETESP\source\repos\PrjCalculadora\PrjCalculadora\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lab_ETESP\source\repos\PrjCalculadora\PrjCalculadora\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lab_ETESP\source\repos\PrjCalculadora\PrjCalculadora\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lab_ETESP\source\repos\PrjCalculadora\PrjCalculadora\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lab_ETESP\source\repos\PrjCalculadora\PrjCalculadora\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lab_ETESP\source\repos\PrjCalculadora\PrjCalculadora\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lab_ETESP\source\repos\PrjCalculadora\PrjCalculadora\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lab_ETESP\source\repos\PrjCalculadora\PrjCalculadora\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lab_ETESP\source\repos\PrjCalculadora\PrjCalculadora\bin\roslyn\System.AppContext.dll
+C:\Users\Lab_ETESP\source\repos\PrjCalculadora\PrjCalculadora\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lab_ETESP\source\repos\PrjCalculadora\PrjCalculadora\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lab_ETESP\source\repos\PrjCalculadora\PrjCalculadora\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lab_ETESP\source\repos\PrjCalculadora\PrjCalculadora\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lab_ETESP\source\repos\PrjCalculadora\PrjCalculadora\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lab_ETESP\source\repos\PrjCalculadora\PrjCalculadora\bin\roslyn\vbc.exe
+C:\Users\Lab_ETESP\source\repos\PrjCalculadora\PrjCalculadora\bin\roslyn\vbc.exe.config
+C:\Users\Lab_ETESP\source\repos\PrjCalculadora\PrjCalculadora\bin\roslyn\vbc.rsp
+C:\Users\Lab_ETESP\source\repos\PrjCalculadora\PrjCalculadora\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lab_ETESP\source\repos\PrjCalculadora\PrjCalculadora\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lab_ETESP\source\repos\PrjCalculadora\PrjCalculadora\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lab_ETESP\source\repos\PrjCalculadora\PrjCalculadora\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lab_ETESP\source\repos\PrjCalculadora\PrjCalculadora\obj\Debug\PrjCalculadora.csprojAssemblyReference.cache
+C:\Users\Lab_ETESP\source\repos\PrjCalculadora\PrjCalculadora\obj\Debug\PrjCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Lab_ETESP\source\repos\PrjCalculadora\PrjCalculadora\obj\Debug\PrjCalculadora.csproj.CopyComplete
+C:\Users\Lab_ETESP\source\repos\PrjCalculadora\PrjCalculadora\obj\Debug\PrjCalculadora.dll
+C:\Users\Lab_ETESP\source\repos\PrjCalculadora\PrjCalculadora\obj\Debug\PrjCalculadora.pdb
+F:\Conteudo - ETESP - 2023\PW II\PrjCalculadora\PrjCalculadora\bin\PrjCalculadora.dll.config
+F:\Conteudo - ETESP - 2023\PW II\PrjCalculadora\PrjCalculadora\bin\PrjCalculadora.dll
+F:\Conteudo - ETESP - 2023\PW II\PrjCalculadora\PrjCalculadora\bin\PrjCalculadora.pdb
+F:\Conteudo - ETESP - 2023\PW II\PrjCalculadora\PrjCalculadora\bin\roslyn\csc.exe
+F:\Conteudo - ETESP - 2023\PW II\PrjCalculadora\PrjCalculadora\bin\roslyn\csc.exe.config
+F:\Conteudo - ETESP - 2023\PW II\PrjCalculadora\PrjCalculadora\bin\roslyn\csc.rsp
+F:\Conteudo - ETESP - 2023\PW II\PrjCalculadora\PrjCalculadora\bin\roslyn\csi.exe
+F:\Conteudo - ETESP - 2023\PW II\PrjCalculadora\PrjCalculadora\bin\roslyn\csi.rsp
+F:\Conteudo - ETESP - 2023\PW II\PrjCalculadora\PrjCalculadora\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Conteudo - ETESP - 2023\PW II\PrjCalculadora\PrjCalculadora\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Conteudo - ETESP - 2023\PW II\PrjCalculadora\PrjCalculadora\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Conteudo - ETESP - 2023\PW II\PrjCalculadora\PrjCalculadora\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Conteudo - ETESP - 2023\PW II\PrjCalculadora\PrjCalculadora\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Conteudo - ETESP - 2023\PW II\PrjCalculadora\PrjCalculadora\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Conteudo - ETESP - 2023\PW II\PrjCalculadora\PrjCalculadora\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Conteudo - ETESP - 2023\PW II\PrjCalculadora\PrjCalculadora\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Conteudo - ETESP - 2023\PW II\PrjCalculadora\PrjCalculadora\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Conteudo - ETESP - 2023\PW II\PrjCalculadora\PrjCalculadora\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Conteudo - ETESP - 2023\PW II\PrjCalculadora\PrjCalculadora\bin\roslyn\System.AppContext.dll
+F:\Conteudo - ETESP - 2023\PW II\PrjCalculadora\PrjCalculadora\bin\roslyn\System.Collections.Immutable.dll
+F:\Conteudo - ETESP - 2023\PW II\PrjCalculadora\PrjCalculadora\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Conteudo - ETESP - 2023\PW II\PrjCalculadora\PrjCalculadora\bin\roslyn\System.IO.FileSystem.dll
+F:\Conteudo - ETESP - 2023\PW II\PrjCalculadora\PrjCalculadora\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Conteudo - ETESP - 2023\PW II\PrjCalculadora\PrjCalculadora\bin\roslyn\System.Reflection.Metadata.dll
+F:\Conteudo - ETESP - 2023\PW II\PrjCalculadora\PrjCalculadora\bin\roslyn\vbc.exe
+F:\Conteudo - ETESP - 2023\PW II\PrjCalculadora\PrjCalculadora\bin\roslyn\vbc.exe.config
+F:\Conteudo - ETESP - 2023\PW II\PrjCalculadora\PrjCalculadora\bin\roslyn\vbc.rsp
+F:\Conteudo - ETESP - 2023\PW II\PrjCalculadora\PrjCalculadora\bin\roslyn\VBCSCompiler.exe
+F:\Conteudo - ETESP - 2023\PW II\PrjCalculadora\PrjCalculadora\bin\roslyn\VBCSCompiler.exe.config
+F:\Conteudo - ETESP - 2023\PW II\PrjCalculadora\PrjCalculadora\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Conteudo - ETESP - 2023\PW II\PrjCalculadora\PrjCalculadora\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Conteudo - ETESP - 2023\PW II\PrjCalculadora\PrjCalculadora\obj\Debug\PrjCalculadora.csproj.CoreCompileInputs.cache
+F:\Conteudo - ETESP - 2023\PW II\PrjCalculadora\PrjCalculadora\obj\Debug\PrjCalculadora.csproj.CopyComplete
+F:\Conteudo - ETESP - 2023\PW II\PrjCalculadora\PrjCalculadora\obj\Debug\PrjCalculadora.dll
+F:\Conteudo - ETESP - 2023\PW II\PrjCalculadora\PrjCalculadora\obj\Debug\PrjCalculadora.pdb
+F:\Conteudo - ETESP - 2023\PW II\PrjCalculadora\PrjCalculadora\obj\Debug\PrjCalculadora.csprojAssemblyReference.cache

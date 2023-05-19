@@ -1,0 +1,61 @@
+﻿body {
+    background-color: black;
+}
+
+.containerEvE {
+    display: flex;
+    height: auto;
+    text-align: center;
+    width: 100%;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.sorteio{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pont{
+    color: white
+}
+
+#Label1{
+    color: white;
+}
+.textEVE{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px
+}
+
+#btnSorteio{
+    width: 80px;
+}
+
+#lblTitulo{
+    font-size: 32px;
+    color: white;
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+}
+
+.Imagens {
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+}
+
+.imginicial{
+    height: 200px;
+    width: 200px;
+}
+
+#btnTesoura{
+    margin-right: 60px
+}

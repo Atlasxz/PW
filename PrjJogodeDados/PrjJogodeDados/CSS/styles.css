@@ -1,0 +1,40 @@
+﻿body {
+    background-color: #000000;
+}
+
+#Image1{
+    border: solid 3px #ededed;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    top: 200px;
+}
+
+.div1{
+    padding: 60px;
+    border-radius: 20px;
+    border: solid 5px #ededed;
+    width: 330px;
+}
+
+.valorEmpate {
+    color: white;
+    font-size: 20px;
+}
+
+.lbl{
+    color: white;
+    font-size: 28px;
+
+}
+
+#Image1{
+    margin-left: 15px;
+}
+
+.btn{
+    width: 60px;
+    height: 30px
+}
